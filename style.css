@@ -1,0 +1,30 @@
+body {
+    background: #d5ffdf;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+h1{
+    color: #5e04008a;
+}
+.full{
+    position: absolute;
+    top: 25%;
+    left: 16%;
+}
+.input{
+    width: 33px;
+    background: #c5ff9573;
+}
+.start{
+    background: #747474e6;
+    color: #ffc755d4;
+}
+h1{
+    background: #95ffccd4;
+    padding: 0;
+}
+.submit{
+    background: #ffc72b85;
+}
